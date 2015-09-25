@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "43D4496BCEABC764DF53F957D4B9B13FB2A2C980",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "43D4496BCEABC764DF53F957D4B9B13FB2A2C980" : 0,
+    "83C6C7CC6AB2B87D6257002B984C7AF8BFF1EB3C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BFE669C5-6740-4B89-A5CC-75930A2E1FD4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "43D4496BCEABC764DF53F957D4B9B13FB2A2C980" : "react-native-sqlite\/",
+    "83C6C7CC6AB2B87D6257002B984C7AF8BFF1EB3C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AIBSQLite",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AIBSQLite.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:srounce\/react-native-sqlite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43D4496BCEABC764DF53F957D4B9B13FB2A2C980"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/stash.syzygy.co.uk:7999\/~srounce\/vct-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83C6C7CC6AB2B87D6257002B984C7AF8BFF1EB3C"
+    }
+  ]
+}

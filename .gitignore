@@ -3,3 +3,4 @@
 node_modules
 AIBSQLite.xcodeproj/xcuserdata
 AIBSQLite.xcodeproj/project.xcworkspace
+.DS_Store
